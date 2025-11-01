@@ -1,0 +1,38 @@
+{
+    "Line01":[
+        "Fu-jin Road",
+        "Xin-zhuang"
+    ],
+    "Line02":[
+        "Pan-xiang Road | National Accounting Institute",
+        "Xu-jing East | National Exhibition & Convention Center",
+        "Hong-qiao Railway Station"
+    ],
+    "Line11":[
+        "Hua-qiao",
+        "Disneyland"
+    ],
+    "Line16":[],
+    "Line17":[],
+    "Line18":[],
+    "Line19":[],
+    "Line20":[],
+    "Line21":[],
+    "Line22":[],
+    "Line23":[],
+    "PujiangLine":[
+        "Shen-du Hwy",
+        "Hui-zhen Road"
+    ],
+    "JinshanRailway":[
+        "Shanghai South Raiway Station",
+        "Xin-zhuang",
+        "Jin-shan-wei"
+    ],
+    "SuburbanRailway":[
+        "Hong-qiao Airport Terminal 2",
+        "Zhong-chun Road",
+        "Jing-hong Road",
+        "Pu-dong Airport Termial 1 & 2"
+    ]
+}
