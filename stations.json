@@ -12,13 +12,25 @@
         "Hua-qiao",
         "Disneyland"
     ],
-    "Line16":[],
+    "Line16":[
+        "Long-yang Road",
+        "Shu-yuan",
+        "Di-shui Lake"
+    ],
     "Line17":[],
     "Line18":[],
-    "Line19":[],
-    "Line20":[],
+    "Line19":{"color":"cmyk=0,42,52,0","stations":[
+        "Shanghai-Baoshan Railway Station",
+        "Hai-lun Road",
+        "Oriental Sports Center",
+        "Hong-jian Road"
+    ]},
+    "Line20":[
+        "Shanghai-West Railway Station",
+        "Gong-qing Forest Park"
+    ],
     "Line21":[],
-    "Line22":[],
+    "Line22":{"color":"c=75,m=90,y=35,k=0","stations":["Jinji Road","Shenjiang Road","North Lingkong Road","Changxing Island","Chenjia Town"]},
     "Line23":[],
     "PujiangLine":[
         "Shen-du Hwy",
